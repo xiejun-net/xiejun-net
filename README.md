@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=xiejun-net&right_color=blue)](https://github.com/liihuu)
+[![visitor](https://visitor-badge.glitch.me/badge?page_id=xiejun-net&right_color=blue)](https://github.com/xiejun-net)
 
 I'm xiejun
 
